@@ -1,6 +1,6 @@
 package CH1;
 
-public class one {
+public class displayThree {
  public static void main(String[] args) {
     System.out.println("1");
     System.out.println("2");
