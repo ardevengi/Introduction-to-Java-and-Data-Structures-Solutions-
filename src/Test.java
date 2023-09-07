@@ -1,8 +1,7 @@
-package CH2;
 
 import java.util.Scanner;
 
-public class ReadingInput {
+public class Test {
     public static void main(String[] args) {
         Scanner ReadingInput = new Scanner(System.in);
         double radius = ReadingInput.nextDouble();
@@ -12,6 +11,7 @@ public class ReadingInput {
         System.out.println(radius);
         System.out.println(i + j + k);
         byte x = (byte) i;
+
     }
 
 }

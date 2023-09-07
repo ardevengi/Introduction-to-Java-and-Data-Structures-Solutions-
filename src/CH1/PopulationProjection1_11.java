@@ -1,6 +1,6 @@
 package CH1;
 
-public class PopulationProjection {
+public class PopulationProjection1_11 {
     public static void main(String[] args) {
         long currentPopulation = 312032486;
 

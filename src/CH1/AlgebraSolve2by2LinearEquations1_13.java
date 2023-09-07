@@ -1,6 +1,6 @@
 package CH1;
 
-public class AlgebraSolve2by2LinearEquations {
+public class AlgebraSolve2by2LinearEquations1_13 {
     public static void main(String[] args) {
         System.out.println("eq1: 3.4x + 50.2y = 44.5");
         System.out.println("eq2: 2.1x + 0.55y = 5.9");
