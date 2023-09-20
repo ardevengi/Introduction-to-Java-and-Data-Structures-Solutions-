@@ -19,7 +19,15 @@ public class Ch_sub {
         int rand = (int) (1 + Math.random() * 20);
         System.out.println(rand);
 
-        // CH 4
+        // CH 7
+        double d[] = new double[30];
+        double[] b = new double[30];
+        char c[] = new char[40];
+        char x[] = { '2', '3' };
+        name(4.5, 4, 5, 7, 8);
+    }
+
+    public static void name(double x, int... nums) {
 
     }
 }
