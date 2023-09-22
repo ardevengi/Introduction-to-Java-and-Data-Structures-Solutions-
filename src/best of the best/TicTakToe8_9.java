@@ -1,4 +1,3 @@
-package CH8;
 
 import java.util.Scanner;
 
